@@ -28,7 +28,7 @@ body {
   &__items {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
   }
 
   &__top {
@@ -243,7 +243,6 @@ body {
 
         span {
           color: darken($color: $gray-line, $amount: 20);
-          font-weight: 500;
           font-weight: 600;
         }
 
@@ -291,7 +290,7 @@ body {
       color: #777777;
     }
 
-    icon {
+    .icon {
       position: relative;
       top: 2px;
     }
