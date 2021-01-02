@@ -9,8 +9,8 @@ function LoadingBlock() {
       width={280}
       height={460}
       viewBox="0 0 280 460"
-      backgroundColor="#ccc"
-      foregroundColor="#ecebeb">
+      backgroundColor="#ecebeb"
+      foregroundColor="#c1c1c1">
         <circle cx="132" cy="142" r="115" />
         <rect x="0" y="273" rx="6" ry="6" width="280" height="26" />
         <rect x="0" y="310" rx="6" ry="6" width="280" height="84" />
